@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/e43ffd97a18569e1b0de26f69821355ccbd05b74b2ff98966186c17c13b73384/68747470733a2f2f6e69656c73656e69712e636f6d2f77702d636f6e74656e742f75706c6f6164732f73697465732f342f323032312f30322f646174612d736369656e63652d69636f6e2d616e696d6174696f6e2d62616e6e65722d636c6f636b776973652d342e676966)](https://Sajid030.io)
 <h1 align="center">Hi 👋, I'm Md Kazi Sajiduddin(Sajid for short)</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="What is Data Scientist" width="400" src="https://theninehertz.com/wp-content/uploads/2022/02/1.gif">
+<img align="right" alt="What is Data Scientist" width="400" src="https://theninehertz.com/wp-content/uploads/2022/02/1.gif" autoplay>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid030&label=Profile%20views&color=0e75b6&style=flat" alt="sajid030" /> </p>
 
