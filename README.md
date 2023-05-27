@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sa_j_i_d" target="blank"><img src="https://img.shields.io/twitter/follow/sa_j_i_d?logo=twitter&style=for-the-badge" alt="sa_j_i_d" /></a> </p>
 
-- 🔭 I’m currently working on **an ANN project**
+- 🔭 I’m currently working on **Deep Learning**
 
 - 🌱 I’m currently learning **Deep Learning**
 
