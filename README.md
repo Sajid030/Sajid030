@@ -5,7 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid030&label=Profile%20views&color=0e75b6&style=flat" alt="sajid030" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sa_j_i_d" target="blank"><img src="https://img.shields.io/twitter/follow/sa_j_i_d?logo=twitter&style=for-the-badge" alt="sa_j_i_d" /></a> </p>
+<p align="left">
+    <a href="https://www.linkedin.com/in/md-kazi-sajiduddin-1aa127268/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
+    </a>
+    &nbsp;
+    <a href="https://www.kaggle.com/dbdmobile" target="blank">
+        <img src="https://img.shields.io/badge/Kaggle-Follow-blue?logo=kaggle&style=for-the-badge" alt="Kaggle Profile" />
+    </a>
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAdRJREFUaEPtmtmOwyAMRYf//+hUqUREXLxcL7RB07cqgO/xFqBtfwmf4ziOyDKttRaZf851LxAVzwn3QsEgEgAqInMtCGRmGBXPRSK6tgkkagTJf68tFYQunBUBDQ61K4Kgi2ni0OeIfRYEWQQViIy36piCWCcjgiJjLXo+QCyTIqK8czVdIsiqwrbCjTBU2w1EGmg1Vj2O03iBPAGiO2mmtQyk0jEsSIVRrTijKUg1vyOyHUhml6qOyBiAU3eriAaNck+jTEd9ZNJ2IJneos7p37sN6UBFmwDNGvZkSY1Eu8mseXBgFluPAMnIgisQKyJSWfxLQEaPz+riMRGhQiveLWURkdp5Rav/B9Fapub183lGbdAt/W2Loom0XHNqIF4b2sVeGUim1yX4lBqZeb/ivQSBnIM9XuT2TZ610LS7OTKa0z8DQg8oqFcqtx+aljGNU466VdsPS230kkgBqTr3wyBZQlZ1rFldl91rafkdeS6CZEUlItAyl+uye15iz1rpihcbGonZy3vfH3ro9rh//1ZkrKfK/X8M/XZkrJG4MsZTaN6dcqUt9Q8Do/HKPVV0bQiE2+l6G4J0B4w2FxiEqx1L2ljGoABQjWgCJM9qc7Pq7QW5VxQR9vni7AAAAABJRU5ErkJggg==)](https://sajid030.github.io/portfolio-website/)
 
 - 🔭 I’m currently working on **Deep Learning**
 
