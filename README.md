@@ -77,7 +77,7 @@
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
   </a>
   <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Sajid030/Sajid030/assets/126476034/e0752c8a-5c68-4266-962f-e6fa681a6d34" alt="gradio" width="40" height="40"/> 
+    <img src="https://www.gradio.app/favicon.png" alt="gradio" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
