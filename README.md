@@ -74,7 +74,10 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
+  </a>
+  <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Sajid030/Sajid030/assets/126476034/e0752c8a-5c68-4266-962f-e6fa681a6d34" alt="gradio" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -94,6 +97,9 @@
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/spyder-ide/spyder/blob/master/img_src/spyder.png" alt="spyder" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
